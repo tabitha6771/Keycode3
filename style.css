@@ -5,7 +5,7 @@
 }
 
 body {
-	background-color: rgba(215, 219, 219, 0.897);
+	background-color: rgb(226, 164, 235);
 	font-family: 'Cabin Sketch', cursive;
 	font-size: 4rem;
 }
@@ -22,7 +22,7 @@ body {
 	font-size: 2rem;
 	font-family: 'Cabin Sketch', cursive;
 	padding: 20px;
-	background-color: rgb(226, 253, 253);
+	background-color: rgb(191, 219, 210);
 	border-radius: 6px;
 	border-bottom: 4px solid #777777;
 	border-left: 4px solid #777777;
